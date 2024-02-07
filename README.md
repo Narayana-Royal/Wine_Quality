@@ -1,4 +1,5 @@
 **Algorithm for the code**:
+
 Algorithm: Count Chord Intersections
 
 Input:
