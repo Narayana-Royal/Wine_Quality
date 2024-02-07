@@ -4,11 +4,13 @@ Algorithm: Count Chord Intersections
 
 Input:
 
-List of radians radians
-List of identifiers identifiers
-Output:
+1 - List of radians radians
+2 - List of identifiers identifiers
 
+Output:
 Total number of intersections among the chords
+
+
 Steps:
 
 1) Create an empty binary search tree root.
