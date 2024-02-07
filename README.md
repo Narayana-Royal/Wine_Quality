@@ -33,6 +33,7 @@ iii. Insert the current chord into the binary search tree root using the insert 
 
 **Estimation of Big O runtime**: 
 > The big O runtime of this code is O(nlogn) on average.
+
 > In the worst case, when the binary search tree formed by the chords becomes highly unbalanced, the time complexity could degrade to O(n^2).
 
 
