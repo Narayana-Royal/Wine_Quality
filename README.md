@@ -4,9 +4,9 @@ Algorithm: Count Chord Intersections
 
 Input:
 
-1 - List of radians radians
+1 - List of radians 
 
-2 - List of identifiers identifiers
+2 - List of identifiers 
 
 Output:
 Total number of intersections among the chords
